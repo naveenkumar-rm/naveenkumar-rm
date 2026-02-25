@@ -23,7 +23,6 @@ A passionate Full stack developer from India
 </div>
 
 ## **💻 About Me**
-- 🔭 I'm currently working on GT software
 - 🌱 I'm currently learning DSA 
 - ⚡ Fun fact Open-source admirer 🫶
 
